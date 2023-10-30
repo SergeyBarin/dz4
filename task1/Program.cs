@@ -1,6 +1,6 @@
 ﻿int Prompt(string messege) {
     System.Console.Write(messege);
-    string readInput = System.Console.Write();
+    string readInput = System.Console.ReadLine();
     int result = int.Parse(readInput);
     return result;
 }
