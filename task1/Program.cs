@@ -6,7 +6,7 @@
 }
 int Power(int powerBase, int exponent) {
     int power = 1;
-    for (int i = 0; int < exponent; i++) {
+    for (int i = 0; i < exponent; i++) {
         power *=powerBase;
     }
     return power;
