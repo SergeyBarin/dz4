@@ -1,0 +1,14 @@
+Z:\учеба\dz4\task2\bin\Debug\net7.0\task2.exe
+Z:\учеба\dz4\task2\bin\Debug\net7.0\task2.deps.json
+Z:\учеба\dz4\task2\bin\Debug\net7.0\task2.runtimeconfig.json
+Z:\учеба\dz4\task2\bin\Debug\net7.0\task2.dll
+Z:\учеба\dz4\task2\bin\Debug\net7.0\task2.pdb
+Z:\учеба\dz4\task2\obj\Debug\net7.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+Z:\учеба\dz4\task2\obj\Debug\net7.0\task2.AssemblyInfoInputs.cache
+Z:\учеба\dz4\task2\obj\Debug\net7.0\task2.AssemblyInfo.cs
+Z:\учеба\dz4\task2\obj\Debug\net7.0\task2.csproj.CoreCompileInputs.cache
+Z:\учеба\dz4\task2\obj\Debug\net7.0\task2.dll
+Z:\учеба\dz4\task2\obj\Debug\net7.0\refint\task2.dll
+Z:\учеба\dz4\task2\obj\Debug\net7.0\task2.pdb
+Z:\учеба\dz4\task2\obj\Debug\net7.0\task2.genruntimeconfig.cache
+Z:\учеба\dz4\task2\obj\Debug\net7.0\ref\task2.dll
